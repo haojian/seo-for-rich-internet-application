@@ -1,0 +1,8 @@
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\bin\Debug\AutoCommentPoster.exe
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\bin\Debug\AutoCommentPoster.pdb
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\AutoCommentPoster.AutoCommentPoster.resources
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\AutoCommentPoster.Properties.Resources.resources
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\AutoCommentPoster.csproj.GenerateResource.Cache
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\AutoCommentPoster.exe
+C:\Users\v-haji\Documents\Visual Studio 2008\Projects\AutoCommentPoster\AutoCommentPoster\obj\Debug\AutoCommentPoster.pdb

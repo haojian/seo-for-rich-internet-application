@@ -1,0 +1,5 @@
+c:\users\haojian.jin\documents\visual studio 2010\Projects\SEOTest\SEOTest.Web\bin\SEOTest.Web.dll
+c:\users\haojian.jin\documents\visual studio 2010\Projects\SEOTest\SEOTest.Web\bin\SEOTest.Web.pdb
+c:\users\haojian.jin\documents\visual studio 2010\Projects\SEOTest\SEOTest.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\haojian.jin\documents\visual studio 2010\Projects\SEOTest\SEOTest.Web\obj\Debug\SEOTest.Web.dll
+c:\users\haojian.jin\documents\visual studio 2010\Projects\SEOTest\SEOTest.Web\obj\Debug\SEOTest.Web.pdb
